@@ -1,0 +1,31 @@
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ApplicationLayer\bin\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.dll.config
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\ApplicationLayer.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\Framework.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\log4net.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\Framework.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\bin\ServiceProxies.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ApplicationLayer\obj\Debug\ApplicationLayer.pdb

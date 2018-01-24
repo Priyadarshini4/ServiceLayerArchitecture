@@ -1,0 +1,23 @@
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\BusinessLayer\bin\Debug\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\bin\Debug\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\Projects\Service Layer Project\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\BusinessLayer\bin\Debug\DataLayer.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\BusinessLayer\obj\Debug\BusinessLayer.pdb

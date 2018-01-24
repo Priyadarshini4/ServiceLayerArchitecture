@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GI_InnovationsModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="GI_InnovationsModelStoreContainer">
+    <EntitySet Name="GI_User" EntityType="GI_InnovationsModel.Store.GI_User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GILog" EntityType="GI_InnovationsModel.Store.GILog" store:Type="Tables" store:Schema="dbo" store:Name="GILog">
+      <DefiningQuery>SELECT 
+      [GILog].[Id] AS [Id], 
+      [GILog].[Date] AS [Date], 
+      [GILog].[Thread] AS [Thread], 
+      [GILog].[Level] AS [Level], 
+      [GILog].[Logger] AS [Logger], 
+      [GILog].[Message] AS [Message], 
+      [GILog].[Exception] AS [Exception]
+      FROM [dbo].[GILog] AS [GILog]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <EntityType Name="GI_User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Password" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'GI_Innovations.dbo.GILog' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="GILog">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="Thread" />
+      <PropertyRef Name="Level" />
+      <PropertyRef Name="Logger" />
+      <PropertyRef Name="Message" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Thread" Type="varchar" Nullable="false" MaxLength="255" />
+    <Property Name="Level" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Logger" Type="varchar" Nullable="false" MaxLength="255" />
+    <Property Name="Message" Type="varchar(max)" Nullable="false" />
+    <Property Name="Exception" Type="varchar(max)" />
+  </EntityType>
+</Schema>

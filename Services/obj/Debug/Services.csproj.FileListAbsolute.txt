@@ -1,0 +1,23 @@
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\Services.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\obj\Debug\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\obj\Debug\Services.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\Services\bin\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\Services.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\bin\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\obj\Debug\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\Services\obj\Debug\Services.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache

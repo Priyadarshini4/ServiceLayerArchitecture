@@ -1,0 +1,33 @@
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\Services.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll.config
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton\CommonProjectSkeleton\ServiceProxies\bin\Debug\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll.config
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\BusinessLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\Services.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\DataLayer.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\Framework.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\BusinessLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\Services.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\DataLayer.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\bin\Debug\Framework.pdb
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.csprojResolveAssemblyReference.cache
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.dll
+C:\Users\rajanp\Desktop\Study Materials\Common Project Skeleton - Copy\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll.config
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ServiceProxies\bin\Debug\ServiceProxies.pdb
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.dll
+F:\Projects\Service Layer Project\CommonProjectSkeleton\ServiceProxies\obj\Debug\ServiceProxies.pdb
